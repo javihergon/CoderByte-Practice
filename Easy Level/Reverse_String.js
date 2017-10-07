@@ -20,4 +20,4 @@ function FirstReverse2(str) {
          
 }
 
-FirstReverse2('This is the reverse exercise 2’);
+FirstReverse2('This is the reverse exercise 2');
