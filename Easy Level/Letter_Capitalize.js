@@ -1,8 +1,4 @@
-
-
 var string  = 'learning to capitalize words';
-
-
 
 function LetterCapitalize(str) { 
         var words = str.split(' ');                                         //Splits string in the space and creates an array of words
