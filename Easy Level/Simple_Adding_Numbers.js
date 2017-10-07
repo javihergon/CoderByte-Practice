@@ -11,3 +11,5 @@ function SimpleAdding(num) {
     }      
 
 }
+
+SimpleAdding(8);
