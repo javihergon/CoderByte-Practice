@@ -1,9 +1,7 @@
 
 function FirstReverse(str) { 
-
   str = str.split('').reverse('').join('');
-  return str; 
-         
+  return str;        
 }
 
 FirstReverse('This is the reverse exercise');
@@ -16,8 +14,7 @@ function FirstReverse2(str) {
       reverseStr = reverseStr + str[i];
     }
   str = reverseStr;
-  return str; 
-         
+  return str;        
 }
 
 FirstReverse2('This is the reverse exercise 2');
