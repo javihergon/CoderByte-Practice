@@ -22,6 +22,7 @@ function LongestWord(sen) {
 LongestWord(string);
 
 /////////////////////////////////////////////////////////////////////////
+//Using two functions
 
 function eliminateUnwantedCharacteres(s) {
   var arr = s.split('');
