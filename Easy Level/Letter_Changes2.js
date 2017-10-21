@@ -12,4 +12,4 @@ function LetterChanges(str) {
          
 }
    
-LetterChanges("This is a test para los que 3t4n v1v0s!");  
+LetterChanges("This is a test para los que 3st4n v1v0s!");  
